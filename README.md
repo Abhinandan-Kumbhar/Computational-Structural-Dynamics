@@ -1,5 +1,6 @@
-### Summary
+## Summary
 Performed structural dynamic analysis of a strcuture by implementiing generalized mode acceleration method in MATLAB and improved results of mode displacement method.
+## Resume point and it's proof
 ### Reduced error norm by 62% as compared to solution of mode displacement method by implementing third order GMAM algorithm  
 <ins>**Proof**</ins>  
 Refer to page no 12:  
