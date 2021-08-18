@@ -1,4 +1,4 @@
-Performed structural dynamics analysis using Generalized mode acceleration method (GMAM)
+#Performed structural dynamics analysis using Generalized mode acceleration method (GMAM)
 <!--- ## Summary --->
 <!--- Performed structural dynamic analysis of a strcuture by implementiing generalized mode acceleration method in MATLAB and improved results of mode displacement method.--->
 ## Resume point and it's proof
